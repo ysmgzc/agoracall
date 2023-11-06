@@ -6,7 +6,7 @@ void main() {
   runApp(
      const GetMaterialApp(
           home: HomePage(),
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: false, 
       )
   );
 }
